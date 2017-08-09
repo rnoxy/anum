@@ -12,4 +12,4 @@ A bunch of notes for UWR's CS class <https://sites.google.com/a/cs.uni.wroc.pl/a
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
