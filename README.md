@@ -1,5 +1,5 @@
 # anum: Numerical Analysis Course Materials
-A bunch of notes for UWR's CS class <https://sites.google.com/a/cs.uni.wroc.pl/anum>
+A bunch of notes for my UWR's CS class <https://sites.google.com/a/cs.uni.wroc.pl/anum>
 
 ## Resources
 
